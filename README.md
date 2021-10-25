@@ -120,7 +120,7 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.</p>
 </p>
 </div>
 
-<div>
+<div style="margin-top: 2rem">
 <h1>Estatisticas Github</h1>
 <div style="display:flex;flex-direction:row;gap:1rem;justify-content:center">
 
@@ -132,7 +132,7 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.</p>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div style="display:flex;flex-direction:column;gap:1rem;justify-content:center">
+<div align="center">
 
 <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurywemerson&theme=tokyonight&hide_border=true&locale=pt-Br&layout=compact&card_width=994">
 <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=iurywemerson&theme=react-dark&hide_border=true">

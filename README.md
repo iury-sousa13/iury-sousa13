@@ -62,7 +62,7 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
     
 </p>
     
-<h1>Tecnologias</h1>
+<h2>Tecnologias</h2>
 
 <div align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="" height="30" width="40" />
@@ -104,7 +104,7 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
 
 </div>
 
-<h1>Estatisticas Github</h1>
+<h2>Estatisticas Github</h2>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iurywemerson&count_private=true&show_icons=true&theme=tokyonight&locale=pt-Br&hide_border=true">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iurywemerson&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">

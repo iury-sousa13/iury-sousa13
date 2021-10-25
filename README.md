@@ -5,20 +5,20 @@
 <div align="end">
 
 <a href="https://github.com/iurywemerson/iurywemerson">
-<img style="width: 2rem" src="./assets/icons/flags/united-states.svg" alt="" />
+<img style="width: 24px" src="./assets/icons/flags/united-states.svg" alt="" />
 </a>
 
 <a href="https://github.com/iurywemerson/iurywemerson">
-<img style="width: 2rem"
+<img style="width: 24px"
     src="./assets/icons/flags/spain.svg" alt="" />
 </a>
 
 <a href="https://github.com/iurywemerson/iurywemerson">
-<img style="width: 2rem;" src="./assets/icons/flags/brazilian.svg" alt="" />
+<img style="width: 24px;" src="./assets/icons/flags/brazilian.svg" alt="" />
 </a>
 </div>
 
-<h2 style="font-size: 1.3rem;font-weight: 300; margin: 0; opacity: 1; font-family: sans-serif;">Sobre mim</h2>
+<h2>Sobre mim</h2>
 
 <p>
 Lorem ipsum dolor sit amet. Eos voluptatem cumque ea nemo nisi cum sequi. Rem iure commodi hic

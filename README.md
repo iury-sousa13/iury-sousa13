@@ -28,7 +28,7 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
 </p>
 
 
-<div>
+<p>
 
 <a href="https://www.linkedin.com/in/iury-sousa/" target="_blank">
 <img style="width: 2rem" src="./assets/icons/social/linkedin.svg" alt="LinkedIn" />
@@ -50,14 +50,18 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
 <img style="width: 26px;" src="./assets/icons/social/google-plus.svg" alt="Google Plus" />
 </a>
 
-</div>
+</p>
 
 </header>
 
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-
+<p>
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&multiline=true&width=996&lines=%22Voc%C3%AA+precisa+fazer+aquilo+que++n%C3%A3o+%C3%A9+capaz+de+fazer%E2%80%9D+-++Eleanor+Roosevelt)](https://git.io/typing-svg)
+    
+</p>
+    
 <h1>Tecnologias</h1>
 
 <div align="center">

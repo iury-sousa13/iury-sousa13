@@ -1,6 +1,6 @@
 <header> 
 
-<img style="width: 100%; max-height: 400px" src="./assets/img/background.jpg" alt="" />
+<img style="width: 100%; max-height: 400px" src="./assets/img/background.png" alt="" />
 
 <div align="end">
 
@@ -30,23 +30,23 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
 
 <div>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/iury-sousa/" target="_blank">
 <img style="width: 2rem" src="./assets/icons/social/linkedin.svg" alt="LinkedIn" />
 </a>
 
-<a href="#">
+<a href="https://discord.com/channels/Iury#4771" target="_blank">
 <img style="width: 2rem" src="./assets/icons/social/discord.svg" alt="Discord" />
 </a>
 
-<a href="#">
+<a href="https://www.facebook.com/iury.wemerson/" target="_blank">
 <img style="width: 2rem" src="./assets/icons/social/facebook.svg" alt="Facebook" />
 </a>
 
-<a href="#">
+<a href="https://www.instagram.com/iury_wemerson/" target="_blank">
 <img style="width: 2rem;" src="./assets/icons/social/instagram.svg" alt="Instagram" />
 </a>
 
-<a href="#">
+<a href="mailto:iury.wemersonsousa@gmail.com" target="_blank">
 <img style="width: 26px;" src="./assets/icons/social/google-plus.svg" alt="Google Plus" />
 </a>
 

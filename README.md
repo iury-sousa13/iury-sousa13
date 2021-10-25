@@ -112,5 +112,5 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
 <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurywemerson&theme=tokyonight&hide_border=true&locale=pt-Br&layout=compact&card_width=994">
 <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=iurywemerson&theme=react-dark&hide_border=true">
     
-![Snake animation](https://github.com/iurywemerson/iurywemerson)
+![Snake animation](https://github.com/iurywemerson/iurywemerson/blob/output/github-contribution-grid-snake.svg)
 

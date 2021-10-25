@@ -5,16 +5,16 @@
 <div align="end">
 
 <a href="https://github.com/iurywemerson/iurywemerson">
-<img style="width: 32px" src="./assets/icons/flags/united-states.svg" alt="" />
+<img style="width: 2rem" src="./assets/icons/flags/united-states.svg" alt="" />
 </a>
 
 <a href="https://github.com/iurywemerson/iurywemerson">
-<img style="width: 32px"
+<img style="width: 2rem"
     src="./assets/icons/flags/spain.svg" alt="" />
 </a>
 
 <a href="https://github.com/iurywemerson/iurywemerson">
-<img style="width: 32px;" src="./assets/icons/flags/brazilian.svg" alt="" />
+<img style="width: 2rem;" src="./assets/icons/flags/brazilian.svg" alt="" />
 </a>
 </div>
 

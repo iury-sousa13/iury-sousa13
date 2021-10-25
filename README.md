@@ -1,9 +1,4 @@
-<header style="background-image: url(./assets/img/background.jpg);max-height: 400px;height: 400px;background-position: center;background-repeat: no-repeat;background-size: cover;position: relative;"> 
-
-<div
-style="width: 100%;height: 100%;background: linear-gradient(52deg, rgba(5, 1, 22, 0.7) 0%, rgba(9, 2, 41, 0.30) 100%);opacity: 1;z-index: 2;" />
-
-<div>
+<header> 
 
 <div align="end">
 
@@ -22,13 +17,6 @@ style="width: 100%;height: 100%;background: linear-gradient(52deg, rgba(5, 1, 22
 </a>
 </div>
 
-<div
-style="text-align: left;justify-content: center;color: white;display: flex;flex: 1 1 0;flex-direction: column;gap: .5rem;">
-
-<h2
-style="font-size: 2.5rem;font-weight: 300;margin: 0;margin-bottom: .5rem;font-family: sans-serif;color: #ff00f7;">
-Iury wemerson</h2>
-
 <h2 style="font-size: 1.3rem;font-weight: 300; margin: 0; opacity: 1; font-family: sans-serif;">Sobre mim</h2>
 
 <p
@@ -38,9 +26,8 @@ asperiores
 ratione At earum voluptatum et excepturi excepturi aut eaque aperiam. Est possimus nisi et libero
 aliquid eum neque eaque eos amet dolores sit rerum unde.</p>
 
-</div>
 
-<div style="align-items: center; display: flex; flex-direction: column; margin-bottom: 1rem">
+<div>
 
 <a href="#">
 <img style="width: 2rem" src="./assets/icons/social/linkedin.svg" alt="LinkedIn" />
@@ -64,22 +51,15 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.</p>
 
 </div>
 
-</div>
-
 </header>
 
-<div align="center" style="margin-top: 2rem;">
+<div align="center">
 
-<di >
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
-
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg) -->
-
-<div>
 <h1>Tecnologias</h1>
 
-<p align="center">
+<div align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" height="30" width="40" />
@@ -117,27 +97,13 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.</p>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="" height="30" width="40" />
 
-</p>
 </div>
 
-<div style="margin-top: 2rem">
 <h1>Estatisticas Github</h1>
-<div style="display:flex;flex-direction:row;gap:1rem;justify-content:center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iurywemerson&count_private=true&show_icons=true&theme=tokyonight&locale=pt-Br&hide_border=true">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iurywemerson&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 
-</div>
-
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<div align="center">
-
 <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurywemerson&theme=tokyonight&hide_border=true&locale=pt-Br&layout=compact&card_width=994">
 <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=iurywemerson&theme=react-dark&hide_border=true">
 
-</div>
-</div>
-</div>
-</div>

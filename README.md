@@ -3,34 +3,23 @@
 <div
 style="width: 100%;height: 100%;background: linear-gradient(52deg, rgba(5, 1, 22, 0.7) 0%, rgba(9, 2, 41, 0.30) 100%);opacity: 1;z-index: 2;" />
 
-<div style="padding: 1rem 3rem; display: flex;flex-direction: column;height: 100%;z-index: 2;">
-
 <div>
 
-<ul style="display: flex; gap:.5rem; list-style: none; justify-content: flex-end;">
-<li>
+<div align="end">
+
 <a href="https://github.com/iurywemerson/iurywemerson">
-<img style="width: 1.5rem; transition: filter .2s ease-out;"
-    onMouseOver="this.style.filter='brightness(85%)'" onMouseOut="this.style.filter='initial'"
-    src="./assets/icons/flags/united-states.svg" alt="" />
+<img style="width: 32px" src="./assets/icons/flags/united-states.svg" alt="" />
 </a>
-</li>
-<li>
+
 <a href="https://github.com/iurywemerson/iurywemerson">
-<img style="width: 1.55rem; transition: filter .2s ease-out;"
-    onMouseOver="this.style.filter='brightness(85%)'" onMouseOut="this.style.filter='initial'"
+<img style="width: 32px"
     src="./assets/icons/flags/spain.svg" alt="" />
 </a>
-</li>
-<li>
+
 <a href="https://github.com/iurywemerson/iurywemerson">
-<img style="width: 1.5rem; transition: filter .2s ease-out;"
-    onMouseOver="this.style.filter='brightness(85%)'" onMouseOut="this.style.filter='initial'"
+<img style="width: 32px;"
     src="./assets/icons/flags/brazilian.svg" alt="" />
 </a>
-</li>
-
-</ul>
 </div>
 
 <div
@@ -53,45 +42,25 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.</p>
 
 <div style="align-items: center; display: flex; flex-direction: column; margin-bottom: 1rem">
 
-<ul style="display: flex; gap:.5rem; list-style: none; justify-content: flex-start;">
-<li>
 <a href="#">
-<img style="width: 2.15rem; transition: filter .2s ease-out;"
-onMouseOver="this.style.filter='brightness(85%)'" onMouseOut="this.style.filter='initial'"
-src="./assets/icons/social/linkedin.svg" alt="LinkedIn" />
+<img style="width: 2rem" src="./assets/icons/social/linkedin.svg" alt="LinkedIn" />
 </a>
-</li>
-<li>
-<a href="#">
-<img style="width: 2.15rem; transition: filter .2s ease-out;"
-onMouseOver="this.style.filter='brightness(85%)'" onMouseOut="this.style.filter='initial'"
-src="./assets/icons/social/discord.svg" alt="Discord" />
-</a>
-</li>
-<li>
-<a href="#">
-<img style="width: 2.15rem; transition: filter .2s ease-out;"
-onMouseOver="this.style.filter='brightness(85%)'" onMouseOut="this.style.filter='initial'"
-src="./assets/icons/social/facebook.svg" alt="Facebook" />
-</a>
-</li>
-<li>
-<a href="#">
-<img style="width: 2.15rem; transition: filter .2s ease-out;"
-onMouseOver="this.style.filter='brightness(85%)'" onMouseOut="this.style.filter='initial'"
-src="./assets/icons/social/instagram.svg" alt="Instagram" />
-</a>
-</li>
 
-<li>
 <a href="#">
-<img style="width: 1.7rem; transition: filter .2s ease-out;"
-onMouseOver="this.style.filter='brightness(85%)'" onMouseOut="this.style.filter='initial'"
-src="./assets/icons/social/google-plus.svg" alt="Google Plus" />
+<img style="width: 2rem" src="./assets/icons/social/discord.svg" alt="Discord" />
 </a>
-</li>
 
-</ul>
+<a href="#">
+<img style="width: 2rem" src="./assets/icons/social/facebook.svg" alt="Facebook" />
+</a>
+
+<a href="#">
+<img style="width: 2rem;" src="./assets/icons/social/instagram.svg" alt="Instagram" />
+</a>
+
+<a href="#">
+<img style="width: 26px;" src="./assets/icons/social/google-plus.svg" alt="Google Plus" />
+</a>
 
 </div>
 
@@ -101,7 +70,7 @@ src="./assets/icons/social/google-plus.svg" alt="Google Plus" />
 
 <div align="center" style="margin-top: 2rem;">
 
-<div style="max-width:996px; display:flex; flex-direction:column; gap: 2rem" >
+<di >
 
 
 
@@ -155,10 +124,8 @@ src="./assets/icons/social/google-plus.svg" alt="Google Plus" />
 <h1>Estatisticas Github</h1>
 <div style="display:flex;flex-direction:row;gap:1rem;justify-content:center">
 
-
-[![Iury Wemerson GitHub stats](https://github-readme-stats.vercel.app/api?username=iurywemerson&count_private=true&show_icons=true&theme=tokyonight&locale=pt-Br&hide_border=true)](https://github.com/iurywemerson/)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iurywemerson&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/iurywemerson)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iurywemerson&count_private=true&show_icons=true&theme=tokyonight&locale=pt-Br&hide_border=true">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iurywemerson&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 
 </div>
 
@@ -167,8 +134,8 @@ src="./assets/icons/social/google-plus.svg" alt="Google Plus" />
 
 <div style="display:flex;flex-direction:column;gap:1rem;justify-content:center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurywemerson&theme=tokyonight&hide_border=true&locale=pt-Br&layout=compact&card_width=994">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=iurywemerson&theme=react-dark&hide_border=true">
+<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurywemerson&theme=tokyonight&hide_border=true&locale=pt-Br&layout=compact&card_width=994">
+<img width="98%" src="https://activity-graph.herokuapp.com/graph?username=iurywemerson&theme=react-dark&hide_border=true">
 
 </div>
 </div>

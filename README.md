@@ -1,5 +1,7 @@
 <header> 
 
+<img style="width: 100%; max-height: 400px" src="./assets/img/background.jpg" alt="" />
+
 <div align="end">
 
 <a href="https://github.com/iurywemerson/iurywemerson">
@@ -12,19 +14,18 @@
 </a>
 
 <a href="https://github.com/iurywemerson/iurywemerson">
-<img style="width: 32px;"
-    src="./assets/icons/flags/brazilian.svg" alt="" />
+<img style="width: 32px;" src="./assets/icons/flags/brazilian.svg" alt="" />
 </a>
 </div>
 
 <h2 style="font-size: 1.3rem;font-weight: 300; margin: 0; opacity: 1; font-family: sans-serif;">Sobre mim</h2>
 
-<p
-style="font-size: .875rem;line-height: 1.4rem;opacity: 1;font-weight: lighter;max-width: 50%;font-family: sans-serif;overflow: hidden;display: -webkit-box;-webkit-line-clamp: 8;-webkit-box-orient: vertical;">
+<p>
 Lorem ipsum dolor sit amet. Eos voluptatem cumque ea nemo nisi cum sequi. Rem iure commodi hic
 asperiores
 ratione At earum voluptatum et excepturi excepturi aut eaque aperiam. Est possimus nisi et libero
-aliquid eum neque eaque eos amet dolores sit rerum unde.</p>
+aliquid eum neque eaque eos amet dolores sit rerum unde.
+</p>
 
 
 <div>

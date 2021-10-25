@@ -134,8 +134,8 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.</p>
 
 <div style="display:flex;flex-direction:column;gap:1rem;justify-content:center">
 
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurywemerson&theme=tokyonight&hide_border=true&locale=pt-Br&layout=compact&card_width=994">
-<img width="98%" src="https://activity-graph.herokuapp.com/graph?username=iurywemerson&theme=react-dark&hide_border=true">
+<img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurywemerson&theme=tokyonight&hide_border=true&locale=pt-Br&layout=compact&card_width=994">
+<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=iurywemerson&theme=react-dark&hide_border=true">
 
 </div>
 </div>

@@ -62,47 +62,48 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
     
 </p>
     
-<h2>Tecnologias</h2>
-
-<div align="center">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="" height="30" width="40" />
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" height="30" width="40" />
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="" height="30" width="40" />
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="" height="30" width="40" />
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="" height="30" width="40" />
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="" height="30" width="40" />
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="" height="30" width="40" />
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" height="30" width="40" />
-<!-- <span style="background:white;"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="" height="30" width="40"/></span> -->
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="" height="30" width="40" />
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="" height="30" width="40" />
-
-</div>
+<h2>Tecnologias e Ferramentas</h2>
+    
+<table width="100">
+    <tr>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="40" /></td>
+    </tr>
+     <tr>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="" width="40" /></td>
+    </tr>
+    <tr>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="" width="40" /></td>
+    </tr>
+    <tr>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="" width="40" /></td>
+    </tr>
+    <tr>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="" width="40" /></td>
+        <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="" width="40" /></td>
+    </tr>
+    
+</table>
 
 <h2>Estatisticas Github</h2>
 

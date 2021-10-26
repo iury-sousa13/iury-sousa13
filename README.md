@@ -4,6 +4,7 @@
 
 <div align="end">
 
+<p>
 <a href="https://github.com/iurywemerson/iurywemerson">
 <img style="width: 24px" src="./assets/icons/flags/united-states.svg" alt="" />
 </a>
@@ -16,15 +17,23 @@
 <a href="https://github.com/iurywemerson/iurywemerson">
 <img style="width: 24px;" src="./assets/icons/flags/brazilian.svg" alt="" />
 </a>
+
+</p>
 </div>
 
 <h2>Sobre mim</h2>
 
+<img align='right' alt='programmer' width=30% src="./assets/img/development.png">
+
 <p>
+
+<i>
 Lorem ipsum dolor sit amet. Eos voluptatem cumque ea nemo nisi cum sequi. Rem iure commodi hic
 asperiores
 ratione At earum voluptatum et excepturi excepturi aut eaque aperiam. Est possimus nisi et libero
 aliquid eum neque eaque eos amet dolores sit rerum unde.
+</i>
+
 </p>
 
 
@@ -98,6 +107,7 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
         <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="" width="40" /></td>
     </tr>
     <tr>
+         <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="" width="40" /></td>
         <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="" width="40" /></td>
         <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="" width="40" /></td>
         <td align='center' width="190"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="" width="40" /></td>

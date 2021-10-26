@@ -63,13 +63,13 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
 
 </header>
 
-<div align="center">
+</br>
+</br>
+</br>
 
-<p>
+<div align="center">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&multiline=true&width=996&lines=%22Voc%C3%AA+precisa+fazer+aquilo+que++n%C3%A3o+%C3%A9+capaz+de+fazer%E2%80%9D+-++Eleanor+Roosevelt)](https://git.io/typing-svg)
-    
-</p>
     
 <h2>Tecnologias e Ferramentas</h2>
     
@@ -115,6 +115,8 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
     
 </table>
 
+</br>
+    
 <h2>Estatisticas Github</h2>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iurywemerson&count_private=true&show_icons=true&theme=tokyonight&locale=pt-Br&hide_border=true">

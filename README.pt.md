@@ -21,17 +21,18 @@
 </p>
 </div>
 
-<h2>About me</h2>
+<h2>Sobre mim</h2>
 
 <img align='right' alt='programmer' width=30% src="./assets/img/development.png">
 
 <p>
 
 <i>
-Lorem ipsum dolor sit amet. Eos voluptatem cumque ea nemo nisi cum sequi. Rem iure commodi hic
-asperiores
-ratione At earum voluptatum et excepturi excepturi aut eaque aperiam. Est possimus nisi et libero
-aliquid eum neque eaque eos amet dolores sit rerum unde.
+
+Sou desenvolvedor full stack com ao menos 3 anos de experiência. Trabalhei em varios projetos privados e pessoais nas quais atuei com C#, Java, PHP, Javascript, SQL Server, Firebase, HTML/CSS e dentre outras linguagens e ferramentas. Tenho um breve conhecimentos em padrões e design patterns como DDD, MVC, MVVM e SOLID.
+
+Apaixonado por estudar novas tecnologias, padrões de projetos e melhores práticas de desenvolvimento. Atualmente estou reforçando e aprimorando meus conhecimentos em NodeJS, TDD, BDD e React-Native.
+
 </i>
 
 </p>
@@ -68,9 +69,9 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&multiline=true&width=996&lines=%22You+must+do+the+thing+you+think+you+cannot+do.%E2%80%9D+-++Eleanor+Roosevelt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&multiline=true&width=996&lines=%22Voc%C3%AA+precisa+fazer+aquilo+que++n%C3%A3o+%C3%A9+capaz+de+fazer%E2%80%9D+-++Eleanor+Roosevelt)](https://git.io/typing-svg)
     
-<h2>Languages and Tools</h2>
+<h2>Tecnologias e Ferramentas</h2>
     
 <table width="100">
     <tr>
@@ -116,12 +117,12 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
 
 </br>
     
-<h2>Github Stats</h2>
+<h2>Estatísticas do Github</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iurywemerson&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iurywemerson&count_private=true&show_icons=true&theme=tokyonight&locale=pt-Br&hide_border=true">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iurywemerson&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 
-<img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurywemerson&theme=tokyonight&hide_border=true&layout=compact&card_width=994">
+<img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurywemerson&theme=tokyonight&hide_border=true&locale=pt-Br&layout=compact&card_width=994">
 <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=iurywemerson&theme=react-dark&hide_border=true">
     
 <img width="99%" src="https://github.com/iurywemerson/iurywemerson/blob/output/github-contribution-grid-snake.svg">

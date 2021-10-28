@@ -1,20 +1,20 @@
 <header> 
 
-<img style="width: 100%; max-height: 400px" src="./assets/img/background.png" alt="" />
+<img style="width: 100%; max-height: 400px" src="./assets/img/background-en.png" alt="" />
 
 <div align="end">
 
 <p>
-<a href="https://github.com/iurywemerson/iurywemerson/blob/main/README.md">
+<a href="https://github.com/iury-sousa/iury-sousa/blob/main/README.md">
 <img style="width: 24px" src="./assets/icons/flags/united-states.svg" alt="" />
 </a>
 
-<a href="https://github.com/iurywemerson/iurywemerson/blob/main/README.es.md">
+<a href="https://github.com/iury-sousa/iury-sousa/blob/main/README.es.md">
 <img style="width: 24px"
     src="./assets/icons/flags/spain.svg" alt="" />
 </a>
 
-<a href="https://github.com/iurywemerson/iurywemerson/blob/main/README.pt.md">
+<a href="https://github.com/iury-sousa/iury-sousa/blob/main/README.pt.md">
 <img style="width: 24px;" src="./assets/icons/flags/brazilian.svg" alt="" />
 </a>
 
@@ -28,10 +28,9 @@
 <p>
 
 <i>
-Lorem ipsum dolor sit amet. Eos voluptatem cumque ea nemo nisi cum sequi. Rem iure commodi hic
-asperiores
-ratione At earum voluptatum et excepturi excepturi aut eaque aperiam. Est possimus nisi et libero
-aliquid eum neque eaque eos amet dolores sit rerum unde.
+I am a full stack developer with at least 3 years of experience. I worked on several private and personal projects in which I worked with C#, Java, PHP, Javascript, SQL Server, Firebase, HTML/CSS and among other languages and tools. I have a brief knowledge of design patterns such as DDD, MVC, MVVM and SOLID.
+
+Passionate about studying new technologies, design patterns and best development practices. I'm currently strengthening and improving my knowledge in NodeJS, TDD, BDD and React-Native.
 </i>
 
 </p>
@@ -118,12 +117,12 @@ aliquid eum neque eaque eos amet dolores sit rerum unde.
     
 <h2>Github Stats</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iurywemerson&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iurywemerson&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iury-sousa&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iury-sousa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 
-<img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurywemerson&theme=tokyonight&hide_border=true&layout=compact&card_width=994">
-<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=iurywemerson&theme=react-dark&hide_border=true">
+<img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iury-sousa&theme=tokyonight&hide_border=true&layout=compact&card_width=994">
+<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=iury-sousa&theme=react-dark&hide_border=true">
     
-<img width="99%" src="https://github.com/iurywemerson/iurywemerson/blob/output/github-contribution-grid-snake.svg">
+<img width="99%" src="https://github.com/iury-sousa/iury-sousa/blob/output/github-contribution-grid-snake.svg">
     
     

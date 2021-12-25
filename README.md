@@ -50,7 +50,7 @@ Passionate about studying new technologies, design patterns and best development
 <img style="width: 2rem" src="./assets/icons/social/facebook.svg" alt="Facebook" />
 </a>
 
-<a href="https://www.instagram.com/iury_wemerson/" target="_blank">
+<a href="https://www.instagram.com/iurysousa13/" target="_blank">
 <img style="width: 2rem;" src="./assets/icons/social/instagram.svg" alt="Instagram" />
 </a>
 

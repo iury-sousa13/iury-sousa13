@@ -118,10 +118,11 @@ Passionate about studying new technologies, design patterns and best development
 <h2>Github Stats</h2>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iury-sousa13&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iury-sousa13&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iury-sousa13&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 
 <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iury-sousa13&theme=tokyonight&hide_border=true&layout=compact&card_width=994">
-<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=iury-sousa13&theme=react-dark&hide_border=true">
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=iury-sousa13&bg_color=0d1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=truehttps://activity-graph.herokuapp.com/graph?username=iury-sousa13&theme=react-dark&hide_border=true">
+
     
 
     

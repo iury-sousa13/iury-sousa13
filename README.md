@@ -28,7 +28,7 @@
 <p>
 
 <i>
-I am a full stack developer with at least 3 years of experience. I worked on several private and personal projects in which I worked with C#, Java, PHP, Javascript, SQL Server, Firebase, HTML/CSS and among other languages and tools. I have a brief knowledge of design patterns such as DDD, MVC, MVVM and SOLID.
+I am a full stack developer with at least 5 years of experience. I worked on several private and personal projects in which I worked with C#, Java, PHP, Javascript, SQL Server, Firebase, HTML/CSS and among other languages and tools. I have a brief knowledge of design patterns such as DDD, MVC, MVVM and SOLID.
 
 Passionate about studying new technologies, design patterns and best development practices. I'm currently strengthening and improving my knowledge in NodeJS, TDD, BDD and React-Native.
 </i>
@@ -117,13 +117,23 @@ Passionate about studying new technologies, design patterns and best development
     
 <h2>Github Stats</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iury-sousa13&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iury-sousa13&theme=tokyonight&hide_border=true&locale=pt_BR&card_height=206" alt="GitHub Streak" />
+<div align="left">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
 
-<img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iury-sousa13&theme=tokyonight&hide_border=true&layout=compact&card_width=994">
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=iury-sousa13&bg_color=0d1117&color=38BDAE&line=3178C6&point=BF91F3&area=true&hide_border=truehttps://activity-graph.herokuapp.com/graph?username=iury-sousa13&theme=react-dark&hide_border=true">
+<img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=iury-sousa13&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
 
-    
+<img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com?user=iury-sousa13&theme=tokyonight&hide_border=true&locale=pt_BR&card_height=206" alt="GitHub Streak" />
 
-    
-    
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iury-sousa13&theme=tokyonight&hide_border=true&layout=compact&card_width=994">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iury-sousa13&theme=tokyonight">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iury-sousa13&bg_color=0d1117&color=38BDAE&line=3178C6&point=BF91F3&area_color=053573&area=true&hide_border=true&grid=true">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>

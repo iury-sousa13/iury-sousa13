@@ -5,16 +5,16 @@
 <div align="end">
 
 <p>
-<a href="https://github.com/iury-sousa/iury-sousa/blob/main/README.md">
+<a href="https://github.com/iury-sousa13/iury-sousa13/blob/main/README.md">
 <img style="width: 24px" src="./assets/icons/flags/united-states.svg" alt="" />
 </a>
 
-<a href="https://github.com/iury-sousa/iury-sousa/blob/main/README.es.md">
+<a href="https://github.com/iury-sousa13/iury-sousa13/blob/main/README.es.md">
 <img style="width: 24px"
     src="./assets/icons/flags/spain.svg" alt="" />
 </a>
 
-<a href="https://github.com/iury-sousa/iury-sousa/blob/main/README.pt.md">
+<a href="https://github.com/iury-sousa13/iury-sousa13/blob/main/README.pt.md">
 <img style="width: 24px;" src="./assets/icons/flags/brazilian.svg" alt="" />
 </a>
 
@@ -40,7 +40,7 @@ Apaixonado por estudar novas tecnologias, padrões de projetos e melhores práti
 
 <p>
 
-<a href="https://www.linkedin.com/in/iury-sousa/" target="_blank">
+<a href="https://www.linkedin.com/in/iury-sousa13/" target="_blank">
 <img style="width: 2rem" src="./assets/icons/social/linkedin.svg" alt="LinkedIn" />
 </a>
 
@@ -119,12 +119,23 @@ Apaixonado por estudar novas tecnologias, padrões de projetos e melhores práti
     
 <h2>Estatísticas do Github</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iury-sousa&count_private=true&show_icons=true&theme=tokyonight&locale=pt-Br&hide_border=true">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iury-sousa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+<div align="left">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
 
-<img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iury-sousa&theme=tokyonight&hide_border=true&locale=pt-Br&layout=compact&card_width=994">
-<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=iury-sousa&theme=react-dark&hide_border=true">
-    
-<img width="99%" src="https://github.com/iury-sousa/iury-sousa/blob/output/github-contribution-grid-snake.svg">
-    
-    
+<img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=iury-sousa13&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com?user=iury-sousa13&theme=tokyonight&hide_border=true&locale=pt_BR&card_height=206" alt="GitHub Streak" />
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iury-sousa13&theme=tokyonight&hide_border=true&layout=compact&card_width=994">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iury-sousa13&theme=tokyonight">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iury-sousa13&bg_color=0d1117&color=38BDAE&line=3178C6&point=BF91F3&area_color=053573&area=true&hide_border=true&grid=true">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>

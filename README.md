@@ -136,7 +136,7 @@ HTML               30 hrs 48 mins  ▒░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </div>
 
-<img width="49.7%" src="https://github-readme-stats01.vercel.app/api?username=iury-sousa13&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
+<img width="49.7%" src="https://github-readme-stats01.vercel.app/api?username=iury-sousa13&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
 
 <img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com?user=iury-sousa13&theme=tokyonight&hide_border=true&locale=pt_BR&card_height=206" alt="GitHub Streak" />
 

@@ -132,7 +132,7 @@ Apaixonado por estudar novas tecnologias, padrões de projetos e melhores práti
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iury-sousa13&theme=tokyonight">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iury-sousa13&bg_color=0d1117&color=38BDAE&line=3178C6&point=BF91F3&area_color=053573&area=true&hide_border=true&grid=true">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iury-sousa13&bg_color=0d1117&color=38BDAE&line=3178C6&point=BF91F3&area_color=053573&area=true&hide_border=true&grid=true&days=30">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">

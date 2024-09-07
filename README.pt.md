@@ -124,11 +124,11 @@ Apaixonado por estudar novas tecnologias, padrões de projetos e melhores práti
 <!--END_SECTION:waka-->
 </div>
 
-<img width="49.7%" src="https://github-readme-stats01.vercel.app/api?username=iury-sousa13&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false">
+<img width="49.7%" src="https://github-readme-stats01.vercel.app/api?username=iury-sousa13&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&locale=pt-BR">
 
 <img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com?user=iury-sousa13&theme=tokyonight&hide_border=true&locale=pt_BR&card_height=206" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-readme-stats01.vercel.app/api/top-langs/?username=iury-sousa13&theme=tokyonight&hide_border=true&layout=compact&card_width=994&include_all_commits=false">
+<img width="100%" src="https://github-readme-stats01.vercel.app/api/top-langs/?username=iury-sousa13&theme=tokyonight&hide_border=true&layout=compact&card_width=994&include_all_commits=false&locale=pt-BR">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iury-sousa13&theme=tokyonight">
 

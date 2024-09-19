@@ -1,7 +1,6 @@
 <header> 
 
 <img style="width: 100%; max-height: 400px" src="./assets/img/background-pt.png" alt="" />
-
 <div align="end">
 
 <p>

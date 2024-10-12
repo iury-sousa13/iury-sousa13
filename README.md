@@ -121,7 +121,7 @@ Passionate about studying new technologies, design patterns and best development
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 October 2021 - To: 10 October 2024
+From: 20 October 2021 - To: 11 October 2024
 
 Total Time: 3,602 hrs 13 mins
 

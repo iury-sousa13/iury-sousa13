@@ -121,12 +121,12 @@ Passionate about studying new technologies, design patterns and best development
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 October 2021 - To: 28 July 2026
+From: 20 October 2021 - To: 29 July 2026
 
-Total Time: 5,231 hrs 52 mins
+Total Time: 5,232 hrs 42 mins
 
-TypeScript                         2,089 hrs 53 mins██████████░░░░░░░░░░░░░░░   39.95 %
-C#                                 1,418 hrs 44 mins██████▓░░░░░░░░░░░░░░░░░░   27.12 %
+TypeScript                         2,089 hrs 53 mins██████████░░░░░░░░░░░░░░░   39.94 %
+C#                                 1,419 hrs 6 mins██████▓░░░░░░░░░░░░░░░░░░   27.12 %
 JavaScript                         413 hrs 24 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
 CSHTML                             108 hrs 51 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 Markdown                           96 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
